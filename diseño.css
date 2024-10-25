@@ -1,0 +1,41 @@
+.encabezado{
+    text-align: right;
+    color: blue;
+}
+.centrar{
+    text-align: center;
+    color: black;
+}
+table{
+    
+    margin: auto;
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 50%;
+}
+.tabla,tr,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    
+}
+th{
+    background-color: brown;
+    color: rgb(251, 255, 0);
+}
+td{
+    background-color: rgb(131, 255, 127);
+}
+b{
+    color: blueviolet;
+}
+dt{
+    color: blue;
+}
+.derecha{
+    text-align: right;
+    
+}
+.logo{
+    width: 150px; /*ancho*/
+    height: 150px; /*alto*/
+}
